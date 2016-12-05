@@ -1,0 +1,118 @@
+# franco_unc.mtl
+
+newmtl Color_0
+Kd 1.000000 0.149020 0.149020 1.000000
+newmtl Color_1
+Kd 1.000000 1.000000 1.000000 1.000000
+newmtl pushed_1465925884_img81_2
+map_Kd pushed_1465925884_img81.bmp
+newmtl pushed_1465925884_img80_3
+map_Kd pushed_1465925884_img80.bmp
+newmtl pushed_1465925884_img64_4
+map_Kd pushed_1465925884_img64.bmp
+newmtl Color_5
+Kd 0.501961 0.501961 0.501961 1.000000
+newmtl Color_6
+Kd 0.976471 0.956863 0.933333 1.000000
+newmtl Color_7
+Kd 0.117647 0.117647 0.117647 1.000000
+newmtl Color_8
+Kd 0.949020 0.952941 1.000000 1.000000
+newmtl Color_9
+Kd 0.066667 0.066667 0.066667 1.000000
+newmtl Color_10
+Kd 0.000000 0.000000 0.000000 1.000000
+newmtl Color_11
+Kd 0.000000 1.000000 0.000000 1.000000
+newmtl pushed_1465925884_img87_12
+map_Kd pushed_1465925884_img87.bmp
+newmtl Color_13
+Kd 0.752941 0.752941 0.752941 0.247059
+newmtl Color_14
+Kd 1.000000 0.784314 0.588235 1.000000
+newmtl pushed_1465925884_img77_15
+map_Kd pushed_1465925884_img77.bmp
+newmtl pushed_1465925884_img78_16
+map_Kd pushed_1465925884_img78.bmp
+newmtl Color_17
+Kd 1.000000 1.000000 1.000000 0.000000
+newmtl Color_18
+Kd 0.227451 0.227451 0.227451 1.000000
+newmtl pushed_1465925884_img76_19
+map_Kd pushed_1465925884_img76.bmp
+newmtl Color_20
+Kd 0.313726 0.254902 0.200000 1.000000
+newmtl Color_21
+Kd 0.239216 0.400000 0.078431 1.000000
+newmtl pushed_1465925884_img75_22
+map_Kd pushed_1465925884_img75.bmp
+newmtl Color_23
+Kd 0.647059 0.647059 0.647059 1.000000
+newmtl pushed_1465925884_img85_24
+map_Kd pushed_1465925884_img85.bmp
+newmtl pushed_1465925884_img79_25
+map_Kd pushed_1465925884_img79.bmp
+newmtl pushed_1465925884_img72_26
+map_Kd pushed_1465925884_img72.bmp
+newmtl pushed_1465925884_img73_27
+map_Kd pushed_1465925884_img73.bmp
+newmtl pushed_1465925884_img74_28
+map_Kd pushed_1465925884_img74.bmp
+newmtl pushed_1465925884_img83_29
+map_Kd pushed_1465925884_img83.bmp
+newmtl pushed_1465925884_img84_30
+map_Kd pushed_1465925884_img84.bmp
+newmtl Color_31
+Kd 0.752941 0.752941 0.752941 1.000000
+newmtl pushed_1465925884_img71_32
+map_Kd pushed_1465925884_img71.bmp
+newmtl Color_33
+Kd 0.172549 0.200000 0.227451 1.000000
+newmtl Color_34
+Kd 0.662745 0.662745 0.662745 1.000000
+newmtl Color_35
+Kd 0.000000 0.000000 0.545098 1.000000
+newmtl Color_36
+Kd 0.658824 0.658824 0.658824 1.000000
+newmtl Color_37
+Kd 0.411765 0.411765 0.411765 1.000000
+newmtl Color_38
+Kd 0.901961 0.862745 0.666667 1.000000
+newmtl pushed_1465925884_img67_39
+map_Kd pushed_1465925884_img67.bmp
+newmtl Color_40
+Kd 0.149020 0.149020 0.149020 1.000000
+newmtl pushed_1465925884_img68_41
+map_Kd pushed_1465925884_img68.bmp
+newmtl Color_42
+Kd 0.776471 0.776471 0.776471 1.000000
+newmtl pushed_1465925884_img69_43
+map_Kd pushed_1465925884_img69.bmp
+newmtl pushed_1465925884_img70_44
+map_Kd pushed_1465925884_img70.bmp
+newmtl Color_45
+Kd 0.262745 0.219608 0.160784 1.000000
+newmtl Color_46
+Kd 0.541176 0.458824 0.349020 1.000000
+newmtl Color_47
+Kd 0.784314 0.784314 0.784314 1.000000
+newmtl Color_48
+Kd 0.250980 0.000000 0.000000 1.000000
+newmtl pushed_1465925884_img65_49
+map_Kd pushed_1465925884_img65.bmp
+newmtl Color_50
+Kd 0.419608 0.419608 0.419608 1.000000
+newmtl pushed_1465925884_img86_51
+map_Kd pushed_1465925884_img86.bmp
+newmtl pushed_1465925884_img82_52
+map_Kd pushed_1465925884_img82.bmp
+newmtl Color_53
+Kd 0.980392 0.980392 0.980392 1.000000
+newmtl Color_54
+Kd 0.588235 0.588235 0.588235 1.000000
+newmtl Color_55
+Kd 0.588235 0.588235 0.588235 0.470588
+newmtl Color_56
+Kd 1.000000 0.039216 0.039216 1.000000
+newmtl Color_57
+Kd 1.000000 1.000000 1.000000 1.000000
