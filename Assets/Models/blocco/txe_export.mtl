@@ -1,0 +1,8 @@
+# txe_export.mtl
+
+# DEFAULT MATERIAL
+newmtl _TesyDefaultMat
+
+# OTHER MATERIALS
+newmtl _img2
+map_Kd img2.jpg
